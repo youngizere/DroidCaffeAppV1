@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Droid Caffe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_dessert_recipe_fragment">Hello Dessert Recipe Fragment</string>
+    <string name="hello_pastries_recipe_fragment">Hello Pastries Recipe Fragment</string>
+    <string name="hello_stores_fragment">Hello Stores Fragment</string>
+    <string name="tab_label_1">Desserts</string>
+    <string name="tab_label_2">Pastries</string>
+    <string name="tab_label_3">Stores</string>
+    <string name="desserts_recipes">Desserts Recipes</string>
+    <string name="browse_recipes">Browse Recipes</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="prep_cook_time_2hrs"><![CDATA[Prep & Cook Time: 2hrs]]></string>
+    <string name="recipe_short_description">Recipe short description</string>
+    <string name="how_to_prepare_donuts">How to prepare Donuts</string>
+
+    <array name="desserts_images">
+        <item>@drawable/donut</item>
+        <item>@drawable/cake</item>
+        <item>@drawable/chocolate</item>
+        <item>@drawable/cream</item>
+        <item>@drawable/gateau</item>
+        <item>@drawable/fork</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/cake</item>
+        <item>@drawable/chocolate</item>
+        <item>@drawable/cream</item>
+        <item>@drawable/gateau</item>
+        <item>@drawable/fork</item>
+    </array>
+    <string-array name="dessert_title">
+        <item>Donut</item>
+        <item>Cake</item>
+        <item>Chocolate</item>
+        <item>Cream</item>
+        <item>Gateau</item>
+        <item>Sandwich</item>
+        <item>Donut</item>
+        <item>Cake</item>
+        <item>Chocolate</item>
+        <item>Cream</item>
+        <item>Gateau</item>
+        <item>Sandwich</item>
+
+    </string-array>
+
+    <string-array name="dessert_description">
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Cake is a premium self-serve frozen yogurt</item>
+        <item>Chocolate is sugared and suit</item>
+        <item>Cream is a bonus dessert</item>
+        <item>Gateau is a french sugared cookie</item>
+        <item>Sandwich is a premium dessert</item>
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Cake is a premium self-serve frozen yogurt</item>
+        <item>Chocolate is sugared and suit</item>
+        <item>Cream is a bonus dessert</item>
+        <item>Gateau is a french sugared cookie</item>
+        <item>Sandwich is a premium dessert</item>
+
+    </string-array>
+
+
+</resources>
